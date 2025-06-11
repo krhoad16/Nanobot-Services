@@ -35,7 +35,7 @@
 
   <h1><u>Nanobot Healthcare Services</u></h1>
 
-  <p><b>Welcome</b> to our revolutionary <span class="note">nanobot-powered</span> medical solutions page.</p>
+  <p><b>Welcome</b> to our revolutionary <span class="note">nanobot-powered</span> medical services page.</p>
 
   <img src="https://via.placeholder.com/600x300" alt="Nanobot in bloodstream" width="600">
 
